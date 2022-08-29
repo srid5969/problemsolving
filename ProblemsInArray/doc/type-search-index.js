@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"array.orh","l":"ArraySearching"},{"p":"array.orh","l":"InsertNEwArray"},{"p":"array.orh","l":"ToDeleteAelement"}];updateSearchResults();
